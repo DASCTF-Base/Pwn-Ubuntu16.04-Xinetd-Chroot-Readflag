@@ -1,6 +1,6 @@
 # DASCTF 征题 Docker 模板-Ubuntu16.04-Xinetd-Chroot-Readflag
 ## 内含组件
-Ubuntu16.04
+- Ubuntu16.04
 - Xinetd
 - Chroot
 - Readflag
